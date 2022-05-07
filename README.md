@@ -1,4 +1,4 @@
-# Reversi Game
+# Reversi Application
 This project is a board game application for 2 players using an 8x8 uncheckerboard. To win the game one player must get the most of their pieces on the board. 
 It consisted of iterative and incremental development to achieve the finish product. I thoroughly enjoyed working on this project as it require alot of time, critical thinking and problem solving. This application uses java. 
 
